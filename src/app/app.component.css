@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+
+canvas {
+  border: solid 1px #ccc;
+}
+.example-card {
+  max-width: 400px;
+}
